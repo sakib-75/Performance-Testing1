@@ -1,0 +1,1375 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1643195447419,2473,HomePage,200,OK,Thread Group 1-2,text,true,,46041,117,16,16,https://lifecharger.org/,1963,0,640
+1643195447741,2366,HomePage,200,OK,Thread Group 1-4,text,true,,46041,117,18,18,https://lifecharger.org/,1845,0,539
+1643195448075,2795,HomePage,200,OK,Thread Group 1-6,text,true,,46041,117,22,22,https://lifecharger.org/,2272,0,546
+1643195447910,4725,HomePage,200,OK,Thread Group 1-5,text,true,,46041,117,33,33,https://lifecharger.org/,4209,0,544
+1643195448246,4800,HomePage,200,OK,Thread Group 1-7,text,true,,46041,117,35,35,https://lifecharger.org/,3947,0,543
+1643195451081,2450,HomePage,500,Internal Server Error,Thread Group 1-24,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,117,38,38,https://lifecharger.org/,2449,0,1561
+1643195453047,508,AboutPage,500,Internal Server Error,Thread Group 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,160,38,38,https://lifecharger.org/about,508,0,0
+1643195447302,6444,HomePage,200,OK,Thread Group 1-1,text,true,,46041,117,39,39,https://lifecharger.org/,5916,0,757
+1643195452749,1063,HomePage,500,Internal Server Error,Thread Group 1-34,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,117,40,40,https://lifecharger.org/,1063,0,537
+1643195451916,2073,HomePage,500,Internal Server Error,Thread Group 1-29,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,117,41,41,https://lifecharger.org/,2073,0,1553
+1643195451580,2486,HomePage,500,Internal Server Error,Thread Group 1-27,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,117,41,41,https://lifecharger.org/,2485,0,1562
+1643195453748,548,AboutPage,500,Internal Server Error,Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,160,43,43,https://lifecharger.org/about,548,0,0
+1643195450911,3532,HomePage,500,Internal Server Error,Thread Group 1-23,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,117,44,44,https://lifecharger.org/,3531,0,545
+1643195453418,1096,HomePage,500,Internal Server Error,Thread Group 1-38,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,117,44,44,https://lifecharger.org/,1095,0,533
+1643195453085,1443,HomePage,500,Internal Server Error,Thread Group 1-36,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,117,44,44,https://lifecharger.org/,1443,0,537
+1643195452583,2092,HomePage,500,Internal Server Error,Thread Group 1-33,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,117,45,45,https://lifecharger.org/,2092,0,549
+1643195453533,1148,AboutPage,500,Internal Server Error,Thread Group 1-24,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,122,45,45,https://lifecharger.org/about,1148,0,541
+1643195452249,2632,HomePage,500,Internal Server Error,Thread Group 1-31,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,117,46,46,https://lifecharger.org/,2632,0,1544
+1643195453753,1141,HomePage,500,Internal Server Error,Thread Group 1-40,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,117,46,46,https://lifecharger.org/,1140,0,539
+1643195453250,1718,HomePage,500,Internal Server Error,Thread Group 1-37,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,117,47,47,https://lifecharger.org/,1718,0,1114
+1643195452926,2116,HomePage,500,Internal Server Error,Thread Group 1-35,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,117,47,47,https://lifecharger.org/,2116,0,1159
+1643195453556,1496,ArchivesPage,500,Internal Server Error,Thread Group 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,163,47,47,https://lifecharger.org/archives,1496,0,527
+1643195453585,1468,HomePage,500,Internal Server Error,Thread Group 1-39,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,117,47,47,https://lifecharger.org/,1467,0,538
+1643195448743,6375,HomePage,200,OK,Thread Group 1-10,text,true,,46041,117,48,48,https://lifecharger.org/,5430,0,537
+1643195453990,1184,AboutPage,500,Internal Server Error,Thread Group 1-29,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,122,48,48,https://lifecharger.org/about,1183,0,544
+1643195453919,1259,HomePage,500,Internal Server Error,Thread Group 1-41,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,117,48,48,https://lifecharger.org/,1258,0,544
+1643195454253,1267,HomePage,500,Internal Server Error,Thread Group 1-43,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,117,50,50,https://lifecharger.org/,1266,0,540
+1643195454586,1068,HomePage,500,Internal Server Error,Thread Group 1-45,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,117,51,51,https://lifecharger.org/,1068,0,534
+1643195454682,1078,ArchivesPage,500,Internal Server Error,Thread Group 1-24,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,125,52,52,https://lifecharger.org/archives,1078,0,558
+1643195454444,1406,AboutPage,500,Internal Server Error,Thread Group 1-23,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,122,52,52,https://lifecharger.org/about,1405,0,524
+1643195454066,1824,AboutPage,500,Internal Server Error,Thread Group 1-27,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,122,52,52,https://lifecharger.org/about,1824,0,526
+1643195454753,1161,HomePage,500,Internal Server Error,Thread Group 1-46,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,117,52,52,https://lifecharger.org/,1160,0,544
+1643195453813,2111,AboutPage,500,Internal Server Error,Thread Group 1-34,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,122,52,52,https://lifecharger.org/about,2111,0,1553
+1643195454921,1104,HomePage,500,Internal Server Error,Thread Group 1-47,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,117,53,53,https://lifecharger.org/,1103,0,545
+1643195454421,1660,HomePage,500,Internal Server Error,Thread Group 1-44,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,117,53,53,https://lifecharger.org/,1659,0,537
+1643195454515,1567,AboutPage,500,Internal Server Error,Thread Group 1-38,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,122,53,53,https://lifecharger.org/about,1566,0,545
+1643195455053,1130,AboutPage,500,Internal Server Error,Thread Group 1-39,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,122,54,54,https://lifecharger.org/about,1130,0,530
+1643195455053,1136,2MinuteRulePage,500,Internal Server Error,Thread Group 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,168,54,54,https://lifecharger.org/2-minute-rule,1136,0,530
+1643195455119,1097,AboutPage,500,Internal Server Error,Thread Group 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,160,53,53,https://lifecharger.org/about,1097,0,0
+1643195454528,1750,AboutPage,500,Internal Server Error,Thread Group 1-36,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,122,54,54,https://lifecharger.org/about,1750,0,1118
+1643195455178,1231,AboutPage,500,Internal Server Error,Thread Group 1-41,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,122,54,54,https://lifecharger.org/about,1230,0,536
+1643195454676,1753,AboutPage,500,Internal Server Error,Thread Group 1-33,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,122,55,55,https://lifecharger.org/about,1752,0,1111
+1643195455422,1037,HomePage,500,Internal Server Error,Thread Group 1-50,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,117,55,55,https://lifecharger.org/,1037,0,521
+1643195455175,1415,ArchivesPage,500,Internal Server Error,Thread Group 1-29,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,125,56,56,https://lifecharger.org/archives,1414,0,536
+1643195454969,1643,AboutPage,500,Internal Server Error,Thread Group 1-37,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,122,56,56,https://lifecharger.org/about,1642,0,1134
+1643195455521,1132,AboutPage,500,Internal Server Error,Thread Group 1-43,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,122,56,56,https://lifecharger.org/about,1132,0,573
+1643195454895,1780,AboutPage,500,Internal Server Error,Thread Group 1-40,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,122,56,56,https://lifecharger.org/about,1779,0,1208
+1643195455587,1099,HomePage,500,Internal Server Error,Thread Group 1-51,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,117,56,56,https://lifecharger.org/,1098,0,548
+1643195455654,1080,AboutPage,500,Internal Server Error,Thread Group 1-45,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,122,56,56,https://lifecharger.org/about,1079,0,552
+1643195455087,1688,HomePage,500,Internal Server Error,Thread Group 1-48,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,117,57,57,https://lifecharger.org/,1687,0,1120
+1643195455762,1077,2MinuteRulePage,500,Internal Server Error,Thread Group 1-24,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,130,57,57,https://lifecharger.org/2-minute-rule,1076,0,550
+1643195455851,1119,ArchivesPage,500,Internal Server Error,Thread Group 1-23,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,125,57,57,https://lifecharger.org/archives,1119,0,558
+1643195455891,1079,ArchivesPage,500,Internal Server Error,Thread Group 1-27,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,125,57,57,https://lifecharger.org/archives,1079,0,550
+1643195455925,1077,ArchivesPage,500,Internal Server Error,Thread Group 1-34,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,125,57,57,https://lifecharger.org/archives,1076,0,530
+1643195455915,1154,AboutPage,500,Internal Server Error,Thread Group 1-46,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,122,57,57,https://lifecharger.org/about,1153,0,546
+1643195455254,1815,HomePage,500,Internal Server Error,Thread Group 1-49,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,117,57,57,https://lifecharger.org/,1815,0,569
+1643195454297,2790,ArchivesPage,500,Internal Server Error,Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,163,57,57,https://lifecharger.org/archives,2790,0,534
+1643195450110,6977,AboutPage,500,Internal Server Error,Thread Group 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1447,321,57,57,https://lifecharger.org/about/,5981,0,0
+1643195450110,5981,AboutPage-0,301,Moved Permanently,Thread Group 1-4,text,true,,552,160,57,57,https://lifecharger.org/about,5981,0,0
+1643195456093,994,AboutPage-1,500,Internal Server Error,Thread Group 1-4,text,false,,895,161,57,57,https://lifecharger.org/about/,994,0,0
+1643195455927,1181,HomePage,500,Internal Server Error,Thread Group 1-53,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,117,58,58,https://lifecharger.org/,1181,0,534
+1643195456183,1221,ArchivesPage,500,Internal Server Error,Thread Group 1-39,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,125,58,58,https://lifecharger.org/archives,1220,0,540
+1643195456280,1182,ArchivesPage,500,Internal Server Error,Thread Group 1-36,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,125,58,58,https://lifecharger.org/archives,1182,0,564
+1643195456258,1247,HomePage,500,Internal Server Error,Thread Group 1-55,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,117,58,58,https://lifecharger.org/,1247,0,539
+1643195456430,1129,ArchivesPage,500,Internal Server Error,Thread Group 1-33,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,125,58,58,https://lifecharger.org/archives,1128,0,548
+1643195456026,1544,AboutPage,500,Internal Server Error,Thread Group 1-47,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,122,58,58,https://lifecharger.org/about,1543,0,540
+1643195450079,7562,HomePage,200,OK,Thread Group 1-18,text,true,,46041,117,58,58,https://lifecharger.org/,7042,0,553
+1643195456217,1437,ArchivesPage,500,Internal Server Error,Thread Group 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,163,58,58,https://lifecharger.org/archives,1437,0,523
+1643195456592,1108,HomePage,500,Internal Server Error,Thread Group 1-57,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,117,58,58,https://lifecharger.org/,1108,0,544
+1643195456591,1109,2MinuteRulePage,500,Internal Server Error,Thread Group 1-29,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,130,58,58,https://lifecharger.org/2-minute-rule,1109,0,531
+1643195448908,8800,HomePage,200,OK,Thread Group 1-11,text,true,,46041,117,57,57,https://lifecharger.org/,8257,0,529
+1643195456676,1074,ArchivesPage,500,Internal Server Error,Thread Group 1-40,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,125,57,57,https://lifecharger.org/archives,1074,0,526
+1643195456775,1065,AboutPage,500,Internal Server Error,Thread Group 1-48,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,122,57,57,https://lifecharger.org/about,1065,0,530
+1643195455756,2099,HomePage,500,Internal Server Error,Thread Group 1-52,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,117,57,57,https://lifecharger.org/,2099,0,1543
+1643195456082,1783,AboutPage,500,Internal Server Error,Thread Group 1-44,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,122,57,57,https://lifecharger.org/about,1782,0,1110
+1643195456687,1179,AboutPage,500,Internal Server Error,Thread Group 1-51,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,122,57,57,https://lifecharger.org/about,1179,0,525
+1643195456734,1147,ArchivesPage,500,Internal Server Error,Thread Group 1-45,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,125,57,57,https://lifecharger.org/archives,1147,0,555
+1643195456460,1627,AboutPage,500,Internal Server Error,Thread Group 1-50,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,122,57,57,https://lifecharger.org/about,1626,0,534
+1643195456428,1679,HomePage,500,Internal Server Error,Thread Group 1-56,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,117,57,57,https://lifecharger.org/,1678,0,549
+1643195456613,1494,ArchivesPage,500,Internal Server Error,Thread Group 1-37,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,125,57,57,https://lifecharger.org/archives,1494,0,529
+1643195457069,1191,AboutPage,500,Internal Server Error,Thread Group 1-49,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,122,57,57,https://lifecharger.org/about,1191,0,534
+1643195457069,1195,ArchivesPage,500,Internal Server Error,Thread Group 1-46,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,125,57,57,https://lifecharger.org/archives,1195,0,549
+1643195457087,1185,ArchivesPage,500,Internal Server Error,Thread Group 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,163,57,57,https://lifecharger.org/archives,1184,0,528
+1643195456756,1561,HomePage,500,Internal Server Error,Thread Group 1-58,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,117,57,57,https://lifecharger.org/,1560,0,544
+1643195457642,712,AboutPage,500,Internal Server Error,Thread Group 1-18,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,160,57,57,https://lifecharger.org/about,711,0,0
+1643195457709,657,AboutPage,500,Internal Server Error,Thread Group 1-11,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,160,57,57,https://lifecharger.org/about,657,0,0
+1643195457108,1288,AboutPage,500,Internal Server Error,Thread Group 1-53,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,122,57,57,https://lifecharger.org/about,1288,0,560
+1643195456655,1791,ArchivesPage,500,Internal Server Error,Thread Group 1-43,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,125,57,57,https://lifecharger.org/archives,1790,0,1109
+1643195456971,1553,2MinuteRulePage,500,Internal Server Error,Thread Group 1-27,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,130,57,57,https://lifecharger.org/2-minute-rule,1553,0,530
+1643195457463,1106,2MinuteRulePage,500,Internal Server Error,Thread Group 1-36,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,130,56,56,https://lifecharger.org/2-minute-rule,1106,0,527
+1643195456922,1670,HomePage,500,Internal Server Error,Thread Group 1-59,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,117,55,55,https://lifecharger.org/,1670,0,540
+1643195456971,1675,2MinuteRulePage,500,Internal Server Error,Thread Group 1-23,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,130,55,55,https://lifecharger.org/2-minute-rule,1675,0,1120
+1643195457002,1755,2MinuteRulePage,500,Internal Server Error,Thread Group 1-34,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,130,54,54,https://lifecharger.org/2-minute-rule,1755,0,1130
+1643195457405,1488,2MinuteRulePage,500,Internal Server Error,Thread Group 1-39,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,130,53,53,https://lifecharger.org/2-minute-rule,1487,0,546
+1643195457842,1155,ArchivesPage,500,Internal Server Error,Thread Group 1-48,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,125,52,52,https://lifecharger.org/archives,1155,0,549
+1643195457655,1384,2MinuteRulePage,500,Internal Server Error,Thread Group 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,168,52,52,https://lifecharger.org/2-minute-rule,1383,0,603
+1643195457856,1191,AboutPage,500,Internal Server Error,Thread Group 1-52,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,122,51,51,https://lifecharger.org/about,1191,0,539
+1643195457571,1487,ArchivesPage,500,Internal Server Error,Thread Group 1-47,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,125,51,51,https://lifecharger.org/archives,1487,0,628
+1643195457087,1982,2MinuteRulePage,500,Internal Server Error,Thread Group 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,168,51,51,https://lifecharger.org/2-minute-rule,1982,0,1122
+1643195454882,4187,AboutPage,500,Internal Server Error,Thread Group 1-31,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,122,51,51,https://lifecharger.org/about,4187,0,3570
+1643195457867,1202,ArchivesPage,500,Internal Server Error,Thread Group 1-51,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,125,51,51,https://lifecharger.org/archives,1202,0,544
+1643195457882,1255,2MinuteRulePage,500,Internal Server Error,Thread Group 1-45,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,130,50,50,https://lifecharger.org/2-minute-rule,1255,0,537
+1643195458107,1148,AboutPage,500,Internal Server Error,Thread Group 1-56,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,122,49,49,https://lifecharger.org/about,1148,0,531
+1643195457505,1765,AboutPage,500,Internal Server Error,Thread Group 1-55,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,122,49,49,https://lifecharger.org/about,1764,0,1099
+1643195458261,1226,ArchivesPage,500,Internal Server Error,Thread Group 1-49,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,125,49,49,https://lifecharger.org/archives,1225,0,550
+1643195458396,1183,ArchivesPage,500,Internal Server Error,Thread Group 1-53,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,125,49,49,https://lifecharger.org/archives,1183,0,540
+1643195458272,1313,2MinuteRulePage,500,Internal Server Error,Thread Group 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,168,49,49,https://lifecharger.org/2-minute-rule,1312,0,553
+1643195458317,1292,AboutPage,500,Internal Server Error,Thread Group 1-58,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,122,48,48,https://lifecharger.org/about,1292,0,543
+1643195458355,1266,ArchivesPage,500,Internal Server Error,Thread Group 1-18,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,163,48,48,https://lifecharger.org/archives,1266,0,542
+1643195458367,1301,ArchivesPage,500,Internal Server Error,Thread Group 1-11,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,163,48,48,https://lifecharger.org/archives,1301,0,526
+1643195449898,9848,AboutPage,500,Internal Server Error,Thread Group 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1447,321,48,48,https://lifecharger.org/about/,9246,0,0
+1643195449898,9246,AboutPage-0,301,Moved Permanently,Thread Group 1-2,text,true,,552,160,48,48,https://lifecharger.org/about,9246,0,0
+1643195459145,601,AboutPage-1,500,Internal Server Error,Thread Group 1-2,text,false,,895,161,48,48,https://lifecharger.org/about/,601,0,0
+1643195458265,1525,2MinuteRulePage,500,Internal Server Error,Thread Group 1-46,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,130,48,48,https://lifecharger.org/2-minute-rule,1525,0,546
+1643195456409,3494,ArchivesPage,500,Internal Server Error,Thread Group 1-41,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,125,47,47,https://lifecharger.org/archives,3494,0,1859
+1643195458088,1854,ArchivesPage,500,Internal Server Error,Thread Group 1-50,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,125,47,47,https://lifecharger.org/archives,1853,0,545
+1643195457751,2229,2MinuteRulePage,500,Internal Server Error,Thread Group 1-40,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,130,47,47,https://lifecharger.org/2-minute-rule,2229,0,1658
+1643195457560,2428,2MinuteRulePage,500,Internal Server Error,Thread Group 1-33,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,130,46,46,https://lifecharger.org/2-minute-rule,2428,0,1835
+1643195457866,2200,ArchivesPage,500,Internal Server Error,Thread Group 1-44,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,125,45,45,https://lifecharger.org/archives,2200,0,1568
+1643195459058,1154,2MinuteRulePage,500,Internal Server Error,Thread Group 1-47,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,130,45,45,https://lifecharger.org/2-minute-rule,1154,0,539
+1643195459070,1163,ArchivesPage,500,Internal Server Error,Thread Group 1-31,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,125,44,44,https://lifecharger.org/archives,1163,0,530
+1643195457091,3151,HomePage,500,Internal Server Error,Thread Group 1-60,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,117,44,44,https://lifecharger.org/,3151,0,1554
+1643195459256,1190,ArchivesPage,500,Internal Server Error,Thread Group 1-56,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,125,44,44,https://lifecharger.org/archives,1190,0,532
+1643195458107,2354,2MinuteRulePage,500,Internal Server Error,Thread Group 1-37,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,130,44,44,https://lifecharger.org/2-minute-rule,2354,0,1542
+1643195450871,9774,AboutPage,500,Internal Server Error,Thread Group 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1447,321,43,43,https://lifecharger.org/about/,9239,0,0
+1643195450871,9239,AboutPage-0,301,Moved Permanently,Thread Group 1-6,text,true,,552,160,43,43,https://lifecharger.org/about,9239,0,0
+1643195460110,535,AboutPage-1,500,Internal Server Error,Thread Group 1-6,text,false,,895,161,43,43,https://lifecharger.org/about/,534,0,0
+1643195459609,1101,ArchivesPage,500,Internal Server Error,Thread Group 1-58,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,125,43,43,https://lifecharger.org/archives,1101,0,548
+1643195459621,1092,2MinuteRulePage,500,Internal Server Error,Thread Group 1-18,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,168,43,43,https://lifecharger.org/2-minute-rule,1092,0,559
+1643195459070,1683,2MinuteRulePage,500,Internal Server Error,Thread Group 1-51,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,130,42,42,https://lifecharger.org/2-minute-rule,1682,0,1111
+1643195449241,11517,HomePage,200,OK,Thread Group 1-13,text,true,,46041,117,41,41,https://lifecharger.org/,11004,0,540
+1643195459746,1122,ArchivesPage,500,Internal Server Error,Thread Group 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,163,41,41,https://lifecharger.org/archives,1121,0,529
+1643195459488,1427,2MinuteRulePage,500,Internal Server Error,Thread Group 1-49,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,130,41,41,https://lifecharger.org/2-minute-rule,1426,0,539
+1643195459271,1658,ArchivesPage,500,Internal Server Error,Thread Group 1-55,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,125,40,40,https://lifecharger.org/archives,1657,0,1113
+1643195459943,1159,2MinuteRulePage,500,Internal Server Error,Thread Group 1-50,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,130,40,40,https://lifecharger.org/2-minute-rule,1158,0,542
+1643195459669,1457,2MinuteRulePage,500,Internal Server Error,Thread Group 1-11,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,168,39,39,https://lifecharger.org/2-minute-rule,1457,0,566
+1643195459048,2079,ArchivesPage,500,Internal Server Error,Thread Group 1-52,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,125,39,39,https://lifecharger.org/archives,2078,0,543
+1643195447586,14050,HomePage,200,OK,Thread Group 1-3,text,true,,46041,117,38,38,https://lifecharger.org/,13537,0,3559
+1643195448574,13077,HomePage,200,OK,Thread Group 1-9,text,true,,46041,117,38,38,https://lifecharger.org/,12550,0,561
+1643195448407,13253,HomePage,200,OK,Thread Group 1-8,text,true,,46041,117,38,38,https://lifecharger.org/,12733,0,556
+1643195449909,11797,HomePage,200,OK,Thread Group 1-17,text,true,,46041,117,38,38,https://lifecharger.org/,11275,0,560
+1643195451252,11328,HomePage,200,OK,Thread Group 1-25,text,true,,46041,117,38,38,https://lifecharger.org/,10817,0,1114
+1643195451413,11252,HomePage,200,OK,Thread Group 1-26,text,true,,46041,117,38,38,https://lifecharger.org/,10741,0,532
+1643195449410,13271,HomePage,200,OK,Thread Group 1-14,text,true,,46041,117,38,38,https://lifecharger.org/,12760,0,527
+1643195449576,13478,HomePage,200,OK,Thread Group 1-15,text,true,,46041,117,38,38,https://lifecharger.org/,12675,0,1552
+1643195463055,540,AboutPage,500,Internal Server Error,Thread Group 1-15,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,160,38,38,https://lifecharger.org/about,540,0,0
+1643195452636,11000,AboutPage,500,Internal Server Error,Thread Group 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1447,321,38,38,https://lifecharger.org/about/,10465,0,0
+1643195452636,10465,AboutPage-0,301,Moved Permanently,Thread Group 1-5,text,true,,552,160,38,38,https://lifecharger.org/about,10465,0,0
+1643195463101,535,AboutPage-1,500,Internal Server Error,Thread Group 1-5,text,false,,895,161,38,38,https://lifecharger.org/about/,534,0,0
+1643195462665,1059,AboutPage,500,Internal Server Error,Thread Group 1-26,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,160,38,38,https://lifecharger.org/about,1059,0,0
+1643195450413,14132,HomePage,200,OK,Thread Group 1-20,text,true,,46041,117,38,38,https://lifecharger.org/,13620,0,1548
+1643195450580,13995,HomePage,200,OK,Thread Group 1-21,text,true,,46041,117,38,38,https://lifecharger.org/,13468,0,556
+1643195454084,10560,HomePage,200,OK,Thread Group 1-42,text,true,,46041,117,38,38,https://lifecharger.org/,10042,0,578
+1643195449077,15614,HomePage,200,OK,Thread Group 1-12,text,true,,46041,117,38,38,https://lifecharger.org/,15102,0,1554
+1643195452417,12275,HomePage,200,OK,Thread Group 1-32,text,true,,46041,117,38,38,https://lifecharger.org/,11752,0,536
+1643195450747,14303,HomePage,200,OK,Thread Group 1-22,text,true,,46041,117,38,38,https://lifecharger.org/,13460,0,1540
+1643195456090,9614,HomePage,200,OK,Thread Group 1-54,text,true,,46041,117,38,38,https://lifecharger.org/,9102,0,531
+1643195452081,13643,HomePage,200,OK,Thread Group 1-30,text,true,,46041,117,38,38,https://lifecharger.org/,13133,0,533
+1643195449744,16344,HomePage,200,OK,Thread Group 1-16,text,true,,46041,117,38,38,https://lifecharger.org/,15503,0,542
+1643195451748,14894,HomePage,200,OK,Thread Group 1-28,text,true,,46041,117,38,38,https://lifecharger.org/,14372,0,572
+1643195450244,16399,HomePage,200,OK,Thread Group 1-19,text,true,,46041,117,38,38,https://lifecharger.org/,15888,0,1539
+1643195461652,10880,AboutPage,500,Internal Server Error,Thread Group 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1447,321,38,38,https://lifecharger.org/about/,10404,0,0
+1643195461652,10404,AboutPage-0,301,Moved Permanently,Thread Group 1-9,text,true,,552,160,38,38,https://lifecharger.org/about,10404,0,0
+1643195472058,474,AboutPage-1,500,Internal Server Error,Thread Group 1-9,text,false,,895,161,38,38,https://lifecharger.org/about/,474,0,0
+1643195466644,8073,AboutPage,500,Internal Server Error,Thread Group 1-28,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1447,321,38,38,https://lifecharger.org/about/,7548,0,0
+1643195466644,7548,AboutPage-0,301,Moved Permanently,Thread Group 1-28,text,true,,552,160,38,38,https://lifecharger.org/about,7548,0,0
+1643195474193,524,AboutPage-1,500,Internal Server Error,Thread Group 1-28,text,false,,895,161,38,38,https://lifecharger.org/about/,523,0,0
+1643195466646,8984,AboutPage,500,Internal Server Error,Thread Group 1-19,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1447,321,38,38,https://lifecharger.org/about/,8477,0,0
+1643195466646,8477,AboutPage-0,301,Moved Permanently,Thread Group 1-19,text,true,,552,160,38,38,https://lifecharger.org/about,8477,0,0
+1643195475125,505,AboutPage-1,500,Internal Server Error,Thread Group 1-19,text,false,,895,161,38,38,https://lifecharger.org/about/,505,0,0
+1643195464576,12048,AboutPage,500,Internal Server Error,Thread Group 1-21,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1447,321,38,38,https://lifecharger.org/about/,11515,0,0
+1643195464576,11515,AboutPage-0,301,Moved Permanently,Thread Group 1-21,text,true,,552,160,38,38,https://lifecharger.org/about,11515,0,0
+1643195476093,531,AboutPage-1,500,Internal Server Error,Thread Group 1-21,text,false,,895,161,38,38,https://lifecharger.org/about/,531,0,0
+1643195464693,12034,AboutPage,500,Internal Server Error,Thread Group 1-32,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1447,321,38,38,https://lifecharger.org/about/,11483,0,0
+1643195464693,11483,AboutPage-0,301,Moved Permanently,Thread Group 1-32,text,true,,552,160,38,38,https://lifecharger.org/about,11483,0,0
+1643195476178,549,AboutPage-1,500,Internal Server Error,Thread Group 1-32,text,false,,895,161,38,38,https://lifecharger.org/about/,548,0,0
+1643195460646,16113,ArchivesPage,500,Internal Server Error,Thread Group 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,163,38,38,https://lifecharger.org/archives,16112,0,15554
+1643195460930,16065,2MinuteRulePage,500,Internal Server Error,Thread Group 1-55,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,130,38,38,https://lifecharger.org/2-minute-rule,16065,0,15572
+1643195472534,4509,ArchivesPage,500,Internal Server Error,Thread Group 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,163,37,37,https://lifecharger.org/archives,4509,0,3566
+1643195465724,11319,AboutPage,500,Internal Server Error,Thread Group 1-30,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1447,321,37,37,https://lifecharger.org/about/,10391,0,0
+1643195465724,10391,AboutPage-0,301,Moved Permanently,Thread Group 1-30,text,true,,552,160,37,37,https://lifecharger.org/about,10391,0,0
+1643195476116,927,AboutPage-1,500,Internal Server Error,Thread Group 1-30,text,false,,895,161,37,37,https://lifecharger.org/about/,927,0,0
+1643195457700,19661,AboutPage,200,OK,Thread Group 1-57,text,true,,33234,283,37,37,https://lifecharger.org/about/,8420,0,1135
+1643195457700,8420,AboutPage-0,301,Moved Permanently,Thread Group 1-57,text,true,,572,122,37,37,https://lifecharger.org/about,8420,0,1135
+1643195466121,11240,AboutPage-1,200,OK,Thread Group 1-57,text,true,,32662,161,37,37,https://lifecharger.org/about/,10983,0,0
+1643195465707,12028,AboutPage,500,Internal Server Error,Thread Group 1-54,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1447,321,37,37,https://lifecharger.org/about/,11418,0,0
+1643195465707,11418,AboutPage-0,301,Moved Permanently,Thread Group 1-54,text,true,,552,160,37,37,https://lifecharger.org/about,11418,0,0
+1643195477127,608,AboutPage-1,500,Internal Server Error,Thread Group 1-54,text,false,,895,161,37,37,https://lifecharger.org/about/,608,0,0
+1643195466090,11653,AboutPage,500,Internal Server Error,Thread Group 1-16,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1447,321,37,37,https://lifecharger.org/about/,11035,0,0
+1643195466090,11035,AboutPage-0,301,Moved Permanently,Thread Group 1-16,text,true,,552,160,37,37,https://lifecharger.org/about,11035,0,0
+1643195477127,616,AboutPage-1,500,Internal Server Error,Thread Group 1-16,text,false,,895,161,37,37,https://lifecharger.org/about/,615,0,0
+1643195477364,517,ArchivesPage,500,Internal Server Error,Thread Group 1-57,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,163,37,37,https://lifecharger.org/archives,516,0,0
+1643195461661,16465,AboutPage,200,OK,Thread Group 1-8,text,true,,33214,321,37,37,https://lifecharger.org/about/,8564,0,0
+1643195461661,8564,AboutPage-0,301,Moved Permanently,Thread Group 1-8,text,true,,552,160,37,37,https://lifecharger.org/about,8564,0,0
+1643195470227,7899,AboutPage-1,200,OK,Thread Group 1-8,text,true,,32662,161,37,37,https://lifecharger.org/about/,7853,0,0
+1643195461706,16431,AboutPage,200,OK,Thread Group 1-17,text,true,,33214,321,37,37,https://lifecharger.org/about/,7387,0,0
+1643195461706,7387,AboutPage-0,301,Moved Permanently,Thread Group 1-17,text,true,,552,160,37,37,https://lifecharger.org/about,7387,0,0
+1643195469094,9043,AboutPage-1,200,OK,Thread Group 1-17,text,true,,32662,161,37,37,https://lifecharger.org/about/,8997,0,0
+1643195476728,1897,ArchivesPage,500,Internal Server Error,Thread Group 1-32,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,163,37,37,https://lifecharger.org/archives,1896,0,540
+1643195478128,545,ArchivesPage,500,Internal Server Error,Thread Group 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,163,37,37,https://lifecharger.org/archives,544,0,0
+1643195478139,659,ArchivesPage,500,Internal Server Error,Thread Group 1-17,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,163,37,37,https://lifecharger.org/archives,659,0,0
+1643195476626,2182,ArchivesPage,500,Internal Server Error,Thread Group 1-21,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,163,37,37,https://lifecharger.org/archives,2182,0,1558
+1643195477737,1179,ArchivesPage,500,Internal Server Error,Thread Group 1-54,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,163,37,37,https://lifecharger.org/archives,1179,0,528
+1643195476761,2191,2MinuteRulePage,500,Internal Server Error,Thread Group 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,168,37,37,https://lifecharger.org/2-minute-rule,2191,0,536
+1643195477744,1310,ArchivesPage,500,Internal Server Error,Thread Group 1-16,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,163,36,36,https://lifecharger.org/archives,1310,0,525
+1643195464692,14449,AboutPage,200,OK,Thread Group 1-12,text,true,,33208,321,36,36,https://lifecharger.org/about/,6498,0,0
+1643195464692,6498,AboutPage-0,301,Moved Permanently,Thread Group 1-12,text,true,,552,160,36,36,https://lifecharger.org/about,6498,0,0
+1643195471191,7950,AboutPage-1,200,OK,Thread Group 1-12,text,true,,32656,161,36,36,https://lifecharger.org/about/,7067,0,0
+1643195455043,24356,AboutPage,200,OK,Thread Group 1-35,text,true,,33234,283,36,36,https://lifecharger.org/about/,11106,0,529
+1643195455043,11106,AboutPage-0,301,Moved Permanently,Thread Group 1-35,text,true,,572,122,36,36,https://lifecharger.org/about,11106,0,529
+1643195466149,13250,AboutPage-1,200,OK,Thread Group 1-35,text,true,,32662,161,36,36,https://lifecharger.org/about/,12993,0,0
+1643195460760,18671,AboutPage,200,OK,Thread Group 1-13,text,true,,33214,321,36,36,https://lifecharger.org/about/,8402,0,0
+1643195460760,8402,AboutPage-0,301,Moved Permanently,Thread Group 1-13,text,true,,552,160,36,36,https://lifecharger.org/about,8402,0,0
+1643195469164,10267,AboutPage-1,200,OK,Thread Group 1-13,text,true,,32662,161,36,36,https://lifecharger.org/about/,9091,0,0
+1643195459580,20043,2MinuteRulePage,200,OK,Thread Group 1-53,text,true,,37543,299,36,36,https://lifecharger.org/2-minute-rule/,10446,0,1112
+1643195459580,10446,2MinuteRulePage-0,301,Moved Permanently,Thread Group 1-53,text,true,,532,130,36,36,https://lifecharger.org/2-minute-rule,10446,0,1112
+1643195470027,9596,2MinuteRulePage-1,200,OK,Thread Group 1-53,text,true,,37011,169,36,36,https://lifecharger.org/2-minute-rule/,9059,0,0
+1643195463636,16232,ArchivesPage,500,Internal Server Error,Thread Group 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,163,35,35,https://lifecharger.org/archives,16231,0,15575
+1643195478808,1100,2MinuteRulePage,500,Internal Server Error,Thread Group 1-21,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,168,35,35,https://lifecharger.org/2-minute-rule,1100,0,550
+1643195479401,570,ArchivesPage,500,Internal Server Error,Thread Group 1-35,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,163,34,34,https://lifecharger.org/archives,569,0,0
+1643195463596,16444,ArchivesPage,500,Internal Server Error,Thread Group 1-15,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,163,34,34,https://lifecharger.org/archives,16443,0,15570
+1643195478916,1146,2MinuteRulePage,500,Internal Server Error,Thread Group 1-54,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,168,34,34,https://lifecharger.org/2-minute-rule,1146,0,555
+1643195478674,1455,2MinuteRulePage,500,Internal Server Error,Thread Group 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,168,33,33,https://lifecharger.org/2-minute-rule,1455,0,533
+1643195479055,1090,2MinuteRulePage,500,Internal Server Error,Thread Group 1-16,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,168,32,32,https://lifecharger.org/2-minute-rule,1090,0,541
+1643195463725,16501,ArchivesPage,500,Internal Server Error,Thread Group 1-26,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,163,31,31,https://lifecharger.org/archives,16500,0,15923
+1643195479431,1019,ArchivesPage,500,Internal Server Error,Thread Group 1-13,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,163,31,31,https://lifecharger.org/archives,1018,0,0
+1643195478799,1970,2MinuteRulePage,500,Internal Server Error,Thread Group 1-17,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,168,31,31,https://lifecharger.org/2-minute-rule,1969,0,556
+1643195479869,1110,2MinuteRulePage,500,Internal Server Error,Thread Group 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,168,30,30,https://lifecharger.org/2-minute-rule,1109,0,556
+1643195479972,1167,2MinuteRulePage,500,Internal Server Error,Thread Group 1-35,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,168,29,29,https://lifecharger.org/2-minute-rule,1166,0,534
+1643195460233,21029,2MinuteRulePage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-31,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2759,0,28,28,https://lifecharger.org/2-minute-rule,0,0,21029
+1643195458998,22581,2MinuteRulePage,200,OK,Thread Group 1-48,text,true,,37549,299,27,27,https://lifecharger.org/2-minute-rule/,10135,0,527
+1643195458998,10135,2MinuteRulePage-0,301,Moved Permanently,Thread Group 1-48,text,true,,532,130,27,27,https://lifecharger.org/2-minute-rule,10135,0,527
+1643195469135,12444,2MinuteRulePage-1,200,OK,Thread Group 1-48,text,true,,37017,169,27,27,https://lifecharger.org/2-minute-rule/,11920,0,0
+1643195480451,1166,2MinuteRulePage,500,Internal Server Error,Thread Group 1-13,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,168,26,26,https://lifecharger.org/2-minute-rule,1166,0,564
+1643195458593,23073,AboutPage,200,OK,Thread Group 1-59,text,true,,33234,283,25,25,https://lifecharger.org/about/,10539,0,1119
+1643195458593,10539,AboutPage-0,301,Moved Permanently,Thread Group 1-59,text,true,,572,122,25,25,https://lifecharger.org/about,10539,0,1119
+1643195469134,12532,AboutPage-1,200,OK,Thread Group 1-59,text,true,,32662,161,25,25,https://lifecharger.org/about/,11967,0,0
+1643195460869,21033,2MinuteRulePage,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to lifecharger.org:443 [lifecharger.org/162.241.225.105] failed: Connection timed out: connect,Thread Group 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2759,0,25,25,https://lifecharger.org/2-minute-rule,0,0,21033
+1643195480042,2066,2MinuteRulePage,500,Internal Server Error,Thread Group 1-15,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,168,24,24,https://lifecharger.org/2-minute-rule,2066,0,1535
+1643195464546,17563,AboutPage,200,OK,Thread Group 1-20,text,true,,33214,321,23,23,https://lifecharger.org/about/,10542,0,0
+1643195464546,10542,AboutPage-0,301,Moved Permanently,Thread Group 1-20,text,true,,552,160,23,23,https://lifecharger.org/about,10542,0,0
+1643195475090,7019,AboutPage-1,200,OK,Thread Group 1-20,text,true,,32662,161,23,23,https://lifecharger.org/about/,6981,0,0
+1643195482109,537,ArchivesPage,500,Internal Server Error,Thread Group 1-20,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,163,23,23,https://lifecharger.org/archives,536,0,0
+1643195462580,20446,AboutPage,200,OK,Thread Group 1-25,text,true,,33214,321,23,23,https://lifecharger.org/about/,11528,0,0
+1643195462580,11528,AboutPage-0,301,Moved Permanently,Thread Group 1-25,text,true,,552,160,23,23,https://lifecharger.org/about,11528,0,0
+1643195474109,8917,AboutPage-1,200,OK,Thread Group 1-25,text,true,,32662,161,23,23,https://lifecharger.org/about/,8080,0,0
+1643195459903,23638,2MinuteRulePage,200,OK,Thread Group 1-41,text,true,,37537,299,23,23,https://lifecharger.org/2-minute-rule/,9238,0,557
+1643195459903,9238,2MinuteRulePage-0,301,Moved Permanently,Thread Group 1-41,text,true,,532,130,23,23,https://lifecharger.org/2-minute-rule,9238,0,557
+1643195469142,14399,2MinuteRulePage-1,200,OK,Thread Group 1-41,text,true,,37005,169,23,23,https://lifecharger.org/2-minute-rule/,13886,0,0
+1643195464646,19517,AboutPage,200,OK,Thread Group 1-42,text,true,,33214,321,22,22,https://lifecharger.org/about/,8444,0,0
+1643195464646,8444,AboutPage-0,301,Moved Permanently,Thread Group 1-42,text,true,,552,160,22,22,https://lifecharger.org/about,8444,0,0
+1643195473092,11071,AboutPage-1,200,OK,Thread Group 1-42,text,true,,32662,161,22,22,https://lifecharger.org/about/,10999,0,0
+1643195461636,22527,AboutPage,200,OK,Thread Group 1-3,text,true,,33214,321,22,22,https://lifecharger.org/about/,8543,0,0
+1643195461636,8543,AboutPage-0,301,Moved Permanently,Thread Group 1-3,text,true,,552,160,22,22,https://lifecharger.org/about,8543,0,0
+1643195470180,13983,AboutPage-1,200,OK,Thread Group 1-3,text,true,,32662,161,22,22,https://lifecharger.org/about/,13961,0,0
+1643195456083,28603,ArchivesPage,200,OK,Thread Group 1-38,text,true,,54446,289,22,22,https://lifecharger.org/archives/,9096,0,530
+1643195456083,9096,ArchivesPage-0,301,Moved Permanently,Thread Group 1-38,text,true,,527,125,22,22,https://lifecharger.org/archives,9096,0,530
+1643195465180,19506,ArchivesPage-1,200,OK,Thread Group 1-38,text,true,,53919,164,22,22,https://lifecharger.org/archives/,18994,0,0
+1643195460710,25063,2MinuteRulePage,500,Internal Server Error,Thread Group 1-58,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1427,299,22,22,https://lifecharger.org/2-minute-rule/,24531,0,15564
+1643195460710,24531,2MinuteRulePage-0,301,Moved Permanently,Thread Group 1-58,text,true,,532,130,22,22,https://lifecharger.org/2-minute-rule,24531,0,15564
+1643195485242,531,2MinuteRulePage-1,500,Internal Server Error,Thread Group 1-58,text,false,,895,169,22,22,https://lifecharger.org/2-minute-rule/,531,0,0
+1643195462682,24565,AboutPage,200,OK,Thread Group 1-14,text,true,,33219,321,21,21,https://lifecharger.org/about/,9353,0,0
+1643195462682,9353,AboutPage-0,301,Moved Permanently,Thread Group 1-14,text,true,,552,160,21,21,https://lifecharger.org/about,9353,0,0
+1643195472037,15210,AboutPage-1,200,OK,Thread Group 1-14,text,true,,32667,161,21,21,https://lifecharger.org/about/,15203,0,0
+1643195465051,22255,AboutPage,200,OK,Thread Group 1-22,text,true,,33214,321,21,21,https://lifecharger.org/about/,9082,0,0
+1643195465051,9082,AboutPage-0,301,Moved Permanently,Thread Group 1-22,text,true,,552,160,21,21,https://lifecharger.org/about,9082,0,0
+1643195474134,13172,AboutPage-1,200,OK,Thread Group 1-22,text,true,,32662,161,21,21,https://lifecharger.org/about/,12375,0,0
+1643195477882,10797,2MinuteRulePage,500,Internal Server Error,Thread Group 1-57,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1407,337,21,21,https://lifecharger.org/2-minute-rule/,10227,0,566
+1643195477882,10227,2MinuteRulePage-0,301,Moved Permanently,Thread Group 1-57,text,true,,512,168,21,21,https://lifecharger.org/2-minute-rule,10227,0,566
+1643195488110,569,2MinuteRulePage-1,500,Internal Server Error,Thread Group 1-57,text,false,,895,169,21,21,https://lifecharger.org/2-minute-rule/,569,0,0
+1643195460243,32139,AboutPage,200,OK,Thread Group 1-60,text,true,,33234,283,20,20,https://lifecharger.org/about/,22944,0,15572
+1643195460243,22944,AboutPage-0,301,Moved Permanently,Thread Group 1-60,text,true,,572,122,20,20,https://lifecharger.org/about,22944,0,15572
+1643195483189,9193,AboutPage-1,200,OK,Thread Group 1-60,text,true,,32662,161,20,20,https://lifecharger.org/about/,8937,0,0
+1643195477044,15606,2MinuteRulePage,500,Internal Server Error,Thread Group 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1407,337,20,20,https://lifecharger.org/2-minute-rule/,13994,0,1533
+1643195477044,13994,2MinuteRulePage-0,301,Moved Permanently,Thread Group 1-9,text,true,,512,168,20,20,https://lifecharger.org/2-minute-rule,13994,0,1533
+1643195491038,1612,2MinuteRulePage-1,500,Internal Server Error,Thread Group 1-9,text,false,,895,169,20,20,https://lifecharger.org/2-minute-rule/,1611,0,0
+1643195481668,11047,ArchivesPage,500,Internal Server Error,Thread Group 1-59,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1402,327,19,19,https://lifecharger.org/archives/,10482,0,0
+1643195481668,10482,ArchivesPage-0,301,Moved Permanently,Thread Group 1-59,text,true,,507,163,19,19,https://lifecharger.org/archives,10482,0,0
+1643195492151,564,ArchivesPage-1,500,Internal Server Error,Thread Group 1-59,text,false,,895,164,19,19,https://lifecharger.org/archives/,563,0,0
+1643195492387,598,ArchivesPage,500,Internal Server Error,Thread Group 1-60,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,163,19,19,https://lifecharger.org/archives,597,0,0
+1643195492715,1859,2MinuteRulePage,500,Internal Server Error,Thread Group 1-59,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,168,19,19,https://lifecharger.org/2-minute-rule,1859,0,536
+1643195482646,11943,2MinuteRulePage,500,Internal Server Error,Thread Group 1-20,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1407,337,18,18,https://lifecharger.org/2-minute-rule/,11417,0,549
+1643195482646,11417,2MinuteRulePage-0,301,Moved Permanently,Thread Group 1-20,text,true,,512,168,18,18,https://lifecharger.org/2-minute-rule,11417,0,549
+1643195494064,525,2MinuteRulePage-1,500,Internal Server Error,Thread Group 1-20,text,false,,895,169,18,18,https://lifecharger.org/2-minute-rule/,525,0,0
+1643195492985,1888,2MinuteRulePage,500,Internal Server Error,Thread Group 1-60,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",895,168,17,17,https://lifecharger.org/2-minute-rule,1888,0,547
+1643195474718,20882,ArchivesPage,200,OK,Thread Group 1-28,text,true,,54426,327,16,16,https://lifecharger.org/archives/,9354,0,1100
+1643195474718,9354,ArchivesPage-0,301,Moved Permanently,Thread Group 1-28,text,true,,507,163,16,16,https://lifecharger.org/archives,9354,0,1100
+1643195484072,11528,ArchivesPage-1,200,OK,Thread Group 1-28,text,true,,53919,164,16,16,https://lifecharger.org/archives/,11018,0,0
+1643195487249,9427,ArchivesPage,500,Internal Server Error,Thread Group 1-14,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[5]]]00
+
+****** comparison: [[[2]]]00
+
+/",1402,327,16,16,https://lifecharger.org/archives/,8908,0,0
+1643195487249,8908,ArchivesPage-0,301,Moved Permanently,Thread Group 1-14,text,true,,507,163,16,16,https://lifecharger.org/archives,8908,0,0
+1643195496158,518,ArchivesPage-1,500,Internal Server Error,Thread Group 1-14,text,false,,895,164,16,16,https://lifecharger.org/archives/,517,0,0
+1643195460447,36898,2MinuteRulePage,200,OK,Thread Group 1-56,text,true,,37543,299,16,16,https://lifecharger.org/2-minute-rule/,26799,0,16198
+1643195460447,26799,2MinuteRulePage-0,301,Moved Permanently,Thread Group 1-56,text,true,,532,130,16,16,https://lifecharger.org/2-minute-rule,26799,0,16198
+1643195487248,10097,2MinuteRulePage-1,200,OK,Thread Group 1-56,text,true,,37011,169,16,16,https://lifecharger.org/2-minute-rule/,9839,0,0
+1643195460068,37327,2MinuteRulePage,200,OK,Thread Group 1-44,text,true,,37543,299,15,15,https://lifecharger.org/2-minute-rule/,27067,0,15560
+1643195460068,27067,2MinuteRulePage-0,301,Moved Permanently,Thread Group 1-44,text,true,,532,130,15,15,https://lifecharger.org/2-minute-rule,27067,0,15560
+1643195487137,10258,2MinuteRulePage-1,200,OK,Thread Group 1-44,text,true,,37011,169,15,15,https://lifecharger.org/2-minute-rule/,10002,0,0
+1643195458447,39115,2MinuteRulePage,200,OK,Thread Group 1-43,text,true,,37543,299,14,14,https://lifecharger.org/2-minute-rule/,26705,0,15555
+1643195458447,26705,2MinuteRulePage-0,301,Moved Permanently,Thread Group 1-43,text,true,,532,130,14,14,https://lifecharger.org/2-minute-rule,26705,0,15555
+1643195485154,12408,2MinuteRulePage-1,200,OK,Thread Group 1-43,text,true,,37011,169,14,14,https://lifecharger.org/2-minute-rule/,11896,0,0
+1643195479142,20066,ArchivesPage,200,OK,Thread Group 1-12,text,true,,54426,327,13,13,https://lifecharger.org/archives/,7971,0,0
+1643195479142,7971,ArchivesPage-0,301,Moved Permanently,Thread Group 1-12,text,true,,507,163,13,13,https://lifecharger.org/archives,7971,0,0
+1643195487114,12094,ArchivesPage-1,200,OK,Thread Group 1-12,text,true,,53919,164,13,13,https://lifecharger.org/archives/,12043,0,0
+1643195461127,39519,2MinuteRulePage,200,OK,Thread Group 1-52,text,true,,37543,299,13,13,https://lifecharger.org/2-minute-rule/,25976,0,15548
+1643195461127,25976,2MinuteRulePage-0,301,Moved Permanently,Thread Group 1-52,text,true,,532,130,13,13,https://lifecharger.org/2-minute-rule,25976,0,15548
+1643195487104,13542,2MinuteRulePage-1,200,OK,Thread Group 1-52,text,true,,37011,169,13,13,https://lifecharger.org/2-minute-rule/,13020,0,0
+1643195478626,22255,2MinuteRulePage,200,OK,Thread Group 1-32,text,true,,37522,337,12,12,https://lifecharger.org/2-minute-rule/,9451,0,541
+1643195478626,9451,2MinuteRulePage-0,301,Moved Permanently,Thread Group 1-32,text,true,,512,168,12,12,https://lifecharger.org/2-minute-rule,9451,0,541
+1643195488077,12804,2MinuteRulePage-1,200,OK,Thread Group 1-32,text,true,,37010,169,12,12,https://lifecharger.org/2-minute-rule/,12033,0,0
+1643195477044,24629,ArchivesPage,200,OK,Thread Group 1-30,text,true,,54426,327,11,11,https://lifecharger.org/archives/,10049,0,530
+1643195477044,10049,ArchivesPage-0,301,Moved Permanently,Thread Group 1-30,text,true,,507,163,11,11,https://lifecharger.org/archives,10049,0,530
+1643195487093,14580,ArchivesPage-1,200,OK,Thread Group 1-30,text,true,,53919,164,11,11,https://lifecharger.org/archives/,14064,0,0
+1643195480228,22360,2MinuteRulePage,200,OK,Thread Group 1-26,text,true,,37523,337,11,11,https://lifecharger.org/2-minute-rule/,9805,0,550
+1643195480228,9805,2MinuteRulePage-0,301,Moved Permanently,Thread Group 1-26,text,true,,512,168,11,11,https://lifecharger.org/2-minute-rule,9805,0,550
+1643195490034,12554,2MinuteRulePage-1,200,OK,Thread Group 1-26,text,true,,37011,169,11,11,https://lifecharger.org/2-minute-rule/,12034,0,0
+1643195483028,20054,ArchivesPage,200,OK,Thread Group 1-25,text,true,,54420,327,10,10,https://lifecharger.org/archives/,6076,0,0
+1643195483028,6076,ArchivesPage-0,301,Moved Permanently,Thread Group 1-25,text,true,,507,163,10,10,https://lifecharger.org/archives,6076,0,0
+1643195489104,13978,ArchivesPage-1,200,OK,Thread Group 1-25,text,true,,53913,164,10,10,https://lifecharger.org/archives/,13934,0,0
+1643195484687,19413,2MinuteRulePage,200,OK,Thread Group 1-38,text,true,,37523,337,10,10,https://lifecharger.org/2-minute-rule/,11420,0,0
+1643195484687,11420,2MinuteRulePage-0,301,Moved Permanently,Thread Group 1-38,text,true,,512,168,10,10,https://lifecharger.org/2-minute-rule,11420,0,0
+1643195496107,7993,2MinuteRulePage-1,200,OK,Thread Group 1-38,text,true,,37011,169,10,10,https://lifecharger.org/2-minute-rule/,7938,0,0
+1643195484165,21975,ArchivesPage,200,OK,Thread Group 1-42,text,true,,54426,327,9,9,https://lifecharger.org/archives/,9030,0,0
+1643195484165,9030,ArchivesPage-0,301,Moved Permanently,Thread Group 1-42,text,true,,507,163,9,9,https://lifecharger.org/archives,9030,0,0
+1643195493196,12944,ArchivesPage-1,200,OK,Thread Group 1-42,text,true,,53919,164,9,9,https://lifecharger.org/archives/,12917,0,0
+1643195487307,19910,ArchivesPage,200,OK,Thread Group 1-22,text,true,,54426,327,9,9,https://lifecharger.org/archives/,8876,0,0
+1643195487307,8876,ArchivesPage-0,301,Moved Permanently,Thread Group 1-22,text,true,,507,163,9,9,https://lifecharger.org/archives,8876,0,0
+1643195496184,11033,ArchivesPage-1,200,OK,Thread Group 1-22,text,true,,53919,164,9,9,https://lifecharger.org/archives/,10973,0,0
+1643195484165,23229,ArchivesPage,200,OK,Thread Group 1-3,text,true,,54426,327,9,9,https://lifecharger.org/archives/,11927,0,0
+1643195484165,11927,ArchivesPage-0,301,Moved Permanently,Thread Group 1-3,text,true,,507,163,9,9,https://lifecharger.org/archives,11927,0,0
+1643195496093,11301,ArchivesPage-1,200,OK,Thread Group 1-3,text,true,,53919,164,9,9,https://lifecharger.org/archives/,11261,0,0
+1643195495602,11958,2MinuteRulePage,200,OK,Thread Group 1-28,text,true,,37517,337,9,9,https://lifecharger.org/2-minute-rule/,7565,0,0
+1643195495602,7565,2MinuteRulePage-0,301,Moved Permanently,Thread Group 1-28,text,true,,512,168,9,9,https://lifecharger.org/2-minute-rule,7565,0,0
+1643195503167,4393,2MinuteRulePage-1,200,OK,Thread Group 1-28,text,true,,37005,169,9,9,https://lifecharger.org/2-minute-rule/,4132,0,0
+1643195475630,31989,ArchivesPage,200,OK,Thread Group 1-19,text,true,,54426,327,8,8,https://lifecharger.org/archives/,13517,0,1546
+1643195475630,13517,ArchivesPage-0,301,Moved Permanently,Thread Group 1-19,text,true,,507,163,8,8,https://lifecharger.org/archives,13517,0,1546
+1643195489148,18471,ArchivesPage-1,200,OK,Thread Group 1-19,text,true,,53919,164,8,8,https://lifecharger.org/archives/,17954,0,0
+1643195496677,11627,2MinuteRulePage,200,OK,Thread Group 1-14,text,true,,37523,337,8,8,https://lifecharger.org/2-minute-rule/,7458,0,528
+1643195496677,7458,2MinuteRulePage-0,301,Moved Permanently,Thread Group 1-14,text,true,,512,168,8,8,https://lifecharger.org/2-minute-rule,7458,0,528
+1643195504135,4169,2MinuteRulePage-1,200,OK,Thread Group 1-14,text,true,,37011,169,8,8,https://lifecharger.org/2-minute-rule/,3914,0,0
+1643195499209,10828,2MinuteRulePage,200,OK,Thread Group 1-12,text,true,,37523,337,7,7,https://lifecharger.org/2-minute-rule/,6827,0,0
+1643195499209,6827,2MinuteRulePage-0,301,Moved Permanently,Thread Group 1-12,text,true,,512,168,7,7,https://lifecharger.org/2-minute-rule,6827,0,0
+1643195506037,4000,2MinuteRulePage-1,200,OK,Thread Group 1-12,text,true,,37011,169,7,7,https://lifecharger.org/2-minute-rule/,3978,0,0
+1643195503083,7176,2MinuteRulePage,200,OK,Thread Group 1-25,text,true,,37523,337,6,6,https://lifecharger.org/2-minute-rule/,4103,0,0
+1643195503083,4103,2MinuteRulePage-0,301,Moved Permanently,Thread Group 1-25,text,true,,512,168,6,6,https://lifecharger.org/2-minute-rule,4103,0,0
+1643195507186,3073,2MinuteRulePage-1,200,OK,Thread Group 1-25,text,true,,37011,169,6,6,https://lifecharger.org/2-minute-rule/,3055,0,0
+1643195501674,8858,2MinuteRulePage,200,OK,Thread Group 1-30,text,true,,37523,337,5,5,https://lifecharger.org/2-minute-rule/,5393,0,0
+1643195501674,5393,2MinuteRulePage-0,301,Moved Permanently,Thread Group 1-30,text,true,,512,168,5,5,https://lifecharger.org/2-minute-rule,5393,0,0
+1643195507068,3464,2MinuteRulePage-1,200,OK,Thread Group 1-30,text,true,,37011,169,5,5,https://lifecharger.org/2-minute-rule/,3208,0,0
+1643195506140,6717,2MinuteRulePage,200,OK,Thread Group 1-42,text,true,,37517,337,4,4,https://lifecharger.org/2-minute-rule/,3010,0,0
+1643195506140,3010,2MinuteRulePage-0,301,Moved Permanently,Thread Group 1-42,text,true,,512,168,4,4,https://lifecharger.org/2-minute-rule,3010,0,0
+1643195509151,3706,2MinuteRulePage-1,200,OK,Thread Group 1-42,text,true,,37005,169,4,4,https://lifecharger.org/2-minute-rule/,2417,0,0
+1643195507619,6442,2MinuteRulePage,200,OK,Thread Group 1-19,text,true,,37528,337,3,3,https://lifecharger.org/2-minute-rule/,2634,0,0
+1643195507619,2634,2MinuteRulePage-0,301,Moved Permanently,Thread Group 1-19,text,true,,512,168,3,3,https://lifecharger.org/2-minute-rule,2634,0,0
+1643195510253,3808,2MinuteRulePage-1,200,OK,Thread Group 1-19,text,true,,37016,169,3,3,https://lifecharger.org/2-minute-rule/,1255,0,0
+1643195507216,8186,2MinuteRulePage,200,OK,Thread Group 1-22,text,true,,37517,337,2,2,https://lifecharger.org/2-minute-rule/,2880,0,0
+1643195507216,2880,2MinuteRulePage-0,301,Moved Permanently,Thread Group 1-22,text,true,,512,168,2,2,https://lifecharger.org/2-minute-rule,2880,0,0
+1643195510097,5305,2MinuteRulePage-1,200,OK,Thread Group 1-22,text,true,,37005,169,2,2,https://lifecharger.org/2-minute-rule/,2648,0,0
+1643195507394,8182,2MinuteRulePage,200,OK,Thread Group 1-3,text,true,,37523,337,1,1,https://lifecharger.org/2-minute-rule/,2811,0,0
+1643195507394,2811,2MinuteRulePage-0,301,Moved Permanently,Thread Group 1-3,text,true,,512,168,1,1,https://lifecharger.org/2-minute-rule,2811,0,0
+1643195510205,5371,2MinuteRulePage-1,200,OK,Thread Group 1-3,text,true,,37011,169,1,1,https://lifecharger.org/2-minute-rule/,4554,0,537
