@@ -10,7 +10,7 @@ Sample performance test of [lifecharger.org](https://lifecharger.org/) website
 **Number of Threads (User) = 60** <br />
 **Ramp-up Period (Second) = 10**
 
-**Error Rate : 0.33%**
+**Error Rate : 51.94%**
 
 ## [Performance Test Report (See Live)](https://performance-test1-sakib.netlify.app/) 
 
