@@ -63,11 +63,15 @@ Sample performance test of [lifecharger.org](https://lifecharger.org/) website
     - HTTP Header Manager
     
  6.  Run JMeter test from command line
-     - Open CMD in JMeter’s bin folder 
-     - Command for Result
-       - **jmeter -n -t "..\testfile.jmx" -l "..\resultsfile"**
-     - Command for Report
-       - **jmeter -n -t "..\testfile.jmx" -l "..\result file" -e -o "..\report folder"**
+     - Open CMD
+     - Command for result
+       - **jmeter -n -t "..\test_file.jmx" -l "..\result_file"**
+       
+     - Command for result & report
+       - **jmeter -n -t "..\test_file.jmx" -l "..\result_file" -e -o "..\report_folder"**
+       
+     - Command for report from an existing result file
+       - **jmeter -g "..\result_file" -o "..\report_folder"**
    
    
    
