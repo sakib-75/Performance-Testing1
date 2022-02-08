@@ -65,9 +65,9 @@ Sample performance test of [lifecharger.org](https://lifecharger.org/) website
  6.  Run JMeter test from command line
      - Open CMD in JMeter’s bin folder 
      - Command for Result
-       - **jmeter -n -t “location of test file” -l “location of results file”**
+       - **jmeter -n -t "..\testfile.jmx" -l "..\resultsfile"**
      - Command for Report
-       - **jmeter -n -t "location of test file" -l "location of result file" -e -o "location of report folder"**
+       - **jmeter -n -t "..\testfile.jmx" -l "..\result file" -e -o "..\report folder"**
    
    
    
